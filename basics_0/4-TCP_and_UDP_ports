@@ -1,3 +1,2 @@
 #!/usr/bin/env bash
-# Displays listening ports with the PID and program name
 netstat -tlnup
